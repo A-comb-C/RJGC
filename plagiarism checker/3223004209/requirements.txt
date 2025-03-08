@@ -1,0 +1,2 @@
+# difflib
+# 不需要下载 difflib，因为它是 Python 的标准库模块，已经随 Python 安装包一起安装好了。你只需要确保你的 Python 环境正常即可。
